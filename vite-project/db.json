@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Reginald",
+        "last": "Doyle"
+      },
+      "location": {
+        "street": {
+          "number": 9751,
+          "name": "Church Street"
+        },
+        "city": "Ballina",
+        "state": "Wicklow",
+        "country": "Ireland",
+        "postcode": 70100,
+        "coordinates": {
+          "latitude": "-0.8832",
+          "longitude": "-90.6327"
+        },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "reginald.doyle@example.com",
+      "login": {
+        "uuid": "c3bf11fa-b238-4d3f-b35a-3817f37e0a0a",
+        "username": "greenostrich316",
+        "password": "college",
+        "salt": "QioI2n9E",
+        "md5": "5fe5595b173886e3ec817d7703c1b8a0",
+        "sha1": "8ebdfae812071733bb9de3b5539c496cc3bc9272",
+        "sha256": "d056387128384d4631eed64a62b3649b10ec85eaff4f5427ea06920053967b62"
+      },
+      "dob": {
+        "date": "1975-01-15T09:13:33.065Z",
+        "age": 50
+      },
+      "registered": {
+        "date": "2004-09-20T07:49:19.558Z",
+        "age": 20
+      },
+      "phone": "071-249-0606",
+      "cell": "081-182-6258",
+      "id": {
+        "name": "PPS",
+        "value": "3949438T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Mia",
+        "last": "Laurent"
+      },
+      "location": {
+        "street": {
+          "number": 4573,
+          "name": "Rue Cyrus-Hugues"
+        },
+        "city": "Champigny-sur-Marne",
+        "state": "Aube",
+        "country": "France",
+        "postcode": 24287,
+        "coordinates": {
+          "latitude": "-19.9863",
+          "longitude": "45.8893"
+        },
+        "timezone": {
+          "offset": "-8:00",
+          "description": "Pacific Time (US & Canada)"
+        }
+      },
+      "email": "mia.laurent@example.com",
+      "login": {
+        "uuid": "c7527731-2d01-4474-824d-60ee49c7ea01",
+        "username": "smallkoala123",
+        "password": "cougars",
+        "salt": "2cerBsUj",
+        "md5": "72191e57fa5285d6e63904fdd6221cf5",
+        "sha1": "a45704e4aa218da15cc06215dab4c4f487a8de2c",
+        "sha256": "1e9a17fb28d62503ca49edda01fd9f4d0fda0407fc8585a414eb124c126e033b"
+      },
+      "dob": {
+        "date": "1996-08-12T10:39:49.308Z",
+        "age": 28
+      },
+      "registered": {
+        "date": "2021-01-27T22:41:26.850Z",
+        "age": 4
+      },
+      "phone": "04-84-86-00-19",
+      "cell": "06-15-98-86-82",
+      "id": {
+        "name": "INSEE",
+        "value": "2960748161266 71"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/24.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+      },
+      "nat": "FR"
+    }
+  ]
+}
