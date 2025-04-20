@@ -32,7 +32,7 @@ const PostsTraditional = () => {
 
   return (
     <>
-      <h1>test line</h1>
+      <h1>test line</h1> 
       <div className="post-list">
         {posts.map((post) => (
           <li key={post.id}>{post.title}</li>
